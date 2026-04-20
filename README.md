@@ -1,37 +1,37 @@
 # 👨‍💻 Yan Victor
 
 ```txt
-> Desenvolvedor em evolução
+> Developer in progress
 > Back-End • APIs • Python • Java • Mobile
-> "Transformando ideias em código todos os dias."
+> "Turning ideas into code every single day."
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Criando+APIs+e+Automações;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Back-End+Developer;Building+APIs+and+Automations;Always+learning+something+new" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
 ```js
 const yan = {
   name: "Yan Victor",
-  age: 17,
-  location: "Rio Grande do Norte, Brasil",
-  focus: ["Back-End", "APIs REST", "Automação", "Mobile"],
+  role: "Back-End Developer",
+  location: "Rio Grande do Norte, Brazil",
+  focus: ["REST APIs", "Automation", "Mobile Development", "Problem Solving"],
   languages: ["Python", "Java", "JavaScript", "C#"],
   currentlyLearning: ["Flask", "Spring Boot", "React Native", "Docker"],
-  mindset: "Sempre buscando evoluir, aprender e construir projetos reais"
+  mindset: "Always improving, learning and building real-world projects"
 }
 ```
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cs,react,nodejs,flask,spring,mysql,sqlite,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cs,react,nodejs,flask,spring,mysql,sqlite,git,github,vscode,docker&theme=light" />
 </p>
 
 ---
@@ -39,58 +39,57 @@ const yan = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
 ---
 
-## ⚡ Atividade
+## ⚡ Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USUARIO&theme=github_dark" />
 </p>
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Goal
 
-Quero usar este perfil para mostrar minha evolução como programador, compartilhar projetos, aprender novas tecnologias e construir soluções cada vez melhores.
+I use this profile to track my growth as a developer, share my projects, explore new technologies and keep improving every day.
 
-```txt
+```cpp
 while(alive) {
-   code();
-   learn();
-   improve();
+    code();
+    learn();
+    improve();
 }
 ```
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <p align="left">
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yan-victor-b19904333">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=FFFFFF&style=flat" />
 </p>
 
-> Troque `SEU_USUARIO`, email e LinkedIn pelos seus dados.
+```txt
+// Replace SEU_USUARIO with your GitHub username
+```
