@@ -83,9 +83,3 @@ while(alive) {
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=FFFFFF&style=flat" />
-</p>
