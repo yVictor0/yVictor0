@@ -20,8 +20,8 @@ const yan = {
   role: "Back-End Developer",
   location: "Rio Grande do Norte, Brazil",
   focus: ["REST APIs", "Automation", "Mobile Development", "Problem Solving"],
-  languages: ["Python", "Java", "JavaScript", "C#"],
-  currentlyLearning: ["Flask", "Spring Boot", "React Native", "Docker"],
+  languages: ["Python", "Java", "JavaScript"],
+  currentlyLearning: ["Flask", "Spring Boot", "React Native"],
   mindset: "Always improving, learning and building real-world projects"
 }
 ```
