@@ -36,19 +36,6 @@ const yan = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yVictor0&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yVictor0&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yVictor0&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-</p>
-
----
-
 ## 🎯 Goal
 
 I use this profile to track my growth as a developer, share my projects, explore new technologies and keep improving every day.
