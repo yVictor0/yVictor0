@@ -31,7 +31,7 @@ const yan = {
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cs,react,nodejs,flask,spring,mysql,sqlite,git,github,vscode,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,css,react,nodejs,flask,spring,git,github,vscoder&theme=light" />
 </p>
 
 ---
