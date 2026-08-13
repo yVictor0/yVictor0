@@ -17,7 +17,7 @@
 ```js
 const yan = {
   name: "Yan Victor",
-  role: "Back-End Developer",
+  role: "Full Stack Developer",
   location: "Rio Grande do Norte, Brazil",
   focus: ["REST APIs", "Automation", "Mobile Development", "Problem Solving"],
   languages: ["Python", "Java", "JavaScript"],
