@@ -2,7 +2,7 @@
 
 ```txt
 > Developer in progress
-> Back-End • APIs • Python • Java • Mobile
+> Back-End • Front-End • APIs • Python • Java • Mobile
 > "Turning ideas into code every single day."
 ```
 
